@@ -1,1 +1,20 @@
 # Paste the output from a sample run here.
+c:/Users/cbram/OneDrive/Documents/datafun-01-getting-started/user_script.py
+What were the top 3 times from the barrel race?
+Enter the number of seconds of first barrel race: 15
+
+Enter the number of seconds of second barrel race: 20
+
+Enter the number of seconds of third barrel race: 25.5
+
+Quickest run was: 15.0
+Longest run was: 25.5
+Average run was: 20
+Range: 15.0 - 25.5
+If racer knocks down 1 barrel, 5.0 seconds penalty is added
+If racer knocks down 2 bareels, 10.0 seconds penalty is added
+If racer knocks over all barrels, 15.0 seconds penalty is added
+The first racer knocked down 1 barrel during their run
+The second racer knocked down 2 barrels during their run
+The third racer knocked down all 3 barrels during their run
+PS C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started> 
