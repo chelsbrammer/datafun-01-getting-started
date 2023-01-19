@@ -1,0 +1,60 @@
+Microsoft Windows [Version 10.0.22000.1455]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>C:/Users/cbram/anaconda3/Scripts/activate
+
+(base) C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>conda activate base
+
+(base) C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>C:/Users/cbram/anaconda3/python.exe c:/Users/cbram/OneDrive/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Simon, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Choose wolf, eagle, or snake: wolf
+
+You said wolf.
+I said eagle.
+
+You win! Great job!
+
+(base) C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>
+(base) C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>C:/Users/cbram/anaconda3/python.exe c:/Users/cbram/OneDrive/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Simon, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Choose wolf, eagle, or snake: snake
+
+You said snake.
+I said snake.
+
+We tied!
+
+(base) C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>C:/Users/cbram/anaconda3/python.exe c:/Users/cbram/OneDrive/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Simon, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Choose wolf, eagle, or snake: eagle
+
+You said eagle.
+I said wolf.
+
+I win! Better luck next time!
+
+(base) C:\Users\cbram\OneDrive\Documents\datafun-01-getting-started>
